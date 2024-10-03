@@ -38,3 +38,5 @@ for i in range(8,-1,-1):
     for j in range(i,9,+1):
         print(j, end = " ")
     print(" ")
+
+print("El programa funciona correctamente.")
