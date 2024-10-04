@@ -39,4 +39,5 @@ for i in range(8,-1,-1):
         print(j, end = " ")
     print(" ")
 
+print("Este es un mensaje añadido en la rama correcciones")
 print("El programa funciona correctamente ahora provaremos remover de stagged.")
