@@ -1,3 +1,4 @@
+#numeros del 0 al 8, en forma de reloj de arena, pero con una diagonal de 8
 """for i in range(8):
     j=i
     while i > 0:
