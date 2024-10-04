@@ -39,4 +39,4 @@ for i in range(8,-1,-1):
         print(j, end = " ")
     print(" ")
 
-print("El programa funciona correctamente.")
+print("El programa funciona correctamente ahora provaremos remover de stagged.")
