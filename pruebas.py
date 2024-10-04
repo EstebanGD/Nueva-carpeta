@@ -19,6 +19,7 @@ for i in range(8,-2,-1):
         print(j, end = " ")
     print(" ")"""
 
+#Impresion numeros del 1 al 8, similar a un reloj de arena
 for i in range(8):
     j=i
     while i > 0:
